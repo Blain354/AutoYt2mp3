@@ -43,7 +43,7 @@ An automated system for searching and downloading music from text files containi
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/your-username/auto-get-tunes.git
+git clone https://github.com/Blain354/AutoYt2mp3.git
 cd auto-get-tunes
 ```
 
